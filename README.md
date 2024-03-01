@@ -3,3 +3,5 @@
 [Яндекс.Маршруты](https://miro.com/app/board/uXjVNKVrOP8=/?share_link_id=812174210164)
 
 [Блок-схема Яндекс.Маршруты](https://miro.com/app/board/uXjVNLzkxbQ=/?share_link_id=282129813245)
+
+[Диаграмма состояний и переходов](https://miro.com/app/board/uXjVNBvXQjI=/)
